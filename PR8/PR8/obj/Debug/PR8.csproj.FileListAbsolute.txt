@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\PR8\PR8\bin\Debug\PR8.exe.config
+C:\Users\Admin\source\repos\PR8\PR8\bin\Debug\PR8.exe
+C:\Users\Admin\source\repos\PR8\PR8\bin\Debug\PR8.pdb
+C:\Users\Admin\source\repos\PR8\PR8\obj\Debug\PR8.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\PR8\PR8\obj\Debug\PR8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PR8\PR8\obj\Debug\PR8.exe
+C:\Users\Admin\source\repos\PR8\PR8\obj\Debug\PR8.pdb
