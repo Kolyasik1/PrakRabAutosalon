@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\PraktRab4\PraktRab4\bin\Debug\PraktRab4.exe.config
+C:\Users\Admin\source\repos\PraktRab4\PraktRab4\bin\Debug\PraktRab4.exe
+C:\Users\Admin\source\repos\PraktRab4\PraktRab4\bin\Debug\PraktRab4.pdb
+C:\Users\Admin\source\repos\PraktRab4\PraktRab4\obj\Debug\PraktRab4.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\PraktRab4\PraktRab4\obj\Debug\PraktRab4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PraktRab4\PraktRab4\obj\Debug\PraktRab4.exe
+C:\Users\Admin\source\repos\PraktRab4\PraktRab4\obj\Debug\PraktRab4.pdb
