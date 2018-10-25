@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\PrakRab7\PrakRab7\bin\Debug\PrakRab7.exe.config
+C:\Users\Admin\source\repos\PrakRab7\PrakRab7\bin\Debug\PrakRab7.exe
+C:\Users\Admin\source\repos\PrakRab7\PrakRab7\bin\Debug\PrakRab7.pdb
+C:\Users\Admin\source\repos\PrakRab7\PrakRab7\obj\Debug\PrakRab7.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\PrakRab7\PrakRab7\obj\Debug\PrakRab7.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PrakRab7\PrakRab7\obj\Debug\PrakRab7.exe
+C:\Users\Admin\source\repos\PrakRab7\PrakRab7\obj\Debug\PrakRab7.pdb
